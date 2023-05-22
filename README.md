@@ -1,6 +1,6 @@
-# Movie Booking App
+# Movie Booking App (iOS)
 
-This is a Movie Booking App built with React Native, Expo, and Firebase. It allows users to browse and book movie tickets, manage their bookings, and view movie details.
+This is a Movie Booking App built with React Native, Expo, and Firebase, specifically designed for iOS. It allows iOS users to browse and book movie tickets, manage their bookings, and view movie details.
 
 ## Features
 
@@ -13,6 +13,6 @@ This is a Movie Booking App built with React Native, Expo, and Firebase. It allo
 
 ## Prerequisites
 
-- Node.js
+- Node.js (v14 or above)
 - Expo CLI
 - Firebase Account
