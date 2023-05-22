@@ -13,6 +13,6 @@ This is a Movie Booking App built with React Native, Expo, and Firebase, specifi
 
 ## Prerequisites
 
-- Node.js (v14 or above)
+- Node.js
 - Expo CLI
 - Firebase Account
